@@ -1,3 +1,2 @@
 # aprendiendoGIT
-asgrego amsdlkasmd';laskd as'd
-a
+> asgrego amsdlkasmd';laskd as'd
